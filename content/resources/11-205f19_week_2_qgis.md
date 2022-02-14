@@ -4,7 +4,12 @@ description: The in-class QGIS exercise for week 2 in 11.205 Introduction to Spa
   Analysis.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-205-introduction-to-spatial-analysis-fall-2019/9889f8538e068f443efc24ff5c7f5b18_11.205f19_week_2_qgis.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 11.205 Introduction to Spatial Analysis QGIS exercise for week 2
+type: OCWFile
 uid: 9889f853-8e06-8f44-3efc-24ff5c7f5b18
 ---

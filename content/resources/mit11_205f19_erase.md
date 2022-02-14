@@ -4,7 +4,11 @@ description: A brief video-only clip demonstrating the "erase" operation in ArcG
   software.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-205-introduction-to-spatial-analysis-fall-2019/d17bae13879b984e2654cf4eae08c7f1_MIT11_205F19_erase.mp4
 file_type: video/mp4
+learning_resource_types: []
+parent_title: Instructional Videos
+parent_type: CourseSection
 resourcetype: Other
 title: Erase
+type: OCWFile
 uid: d17bae13-879b-984e-2654-cf4eae08c7f1
 ---
