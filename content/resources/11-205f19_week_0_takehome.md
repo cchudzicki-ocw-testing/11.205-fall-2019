@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 11.205 Introduction to Spatial Analysis Week 0 Take-Home Assignment
-type: OCWFile
 uid: b9c9742f-bfdb-9468-8f2d-80a95664dee6
 ---

@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Buffer
-type: OCWFile
 uid: 6d5ffbbc-82de-4057-08a2-6ee679a360ca
 ---

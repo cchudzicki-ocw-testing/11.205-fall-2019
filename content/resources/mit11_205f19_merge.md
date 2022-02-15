@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Merge
-type: OCWFile
 uid: adb56ed6-6b19-18df-9021-d0cde9601f2f
 ---

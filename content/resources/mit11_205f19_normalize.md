@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Normalize
-type: OCWFile
 uid: 875b14ad-05db-560a-087a-96a0770b4f6e
 ---

@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Erase
-type: OCWFile
 uid: d17bae13-879b-984e-2654-cf4eae08c7f1
 ---

@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Data Driven Pages
-type: OCWFile
 uid: 01821062-4a66-8c46-aade-f2f436a8ae1c
 ---

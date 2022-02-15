@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Multiple Ring Buffers
-type: OCWFile
 uid: c452046b-5d62-bb33-5729-4acf8a8e13a2
 ---

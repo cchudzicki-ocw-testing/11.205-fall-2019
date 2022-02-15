@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Dissolve
-type: OCWFile
 uid: 85cbb894-b957-15a4-6b6e-c726b82a507c
 ---

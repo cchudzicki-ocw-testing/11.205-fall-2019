@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 11.205 Introduction to Spatial Analysis take-home exercise for week 6
-type: OCWFile
 uid: 9cafab3b-275e-e66a-4b57-f9630935cee1
 ---

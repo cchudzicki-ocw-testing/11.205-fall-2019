@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Intersect
-type: OCWFile
 uid: 0bf76661-f55b-e42d-f635-b2951cf9d865
 ---

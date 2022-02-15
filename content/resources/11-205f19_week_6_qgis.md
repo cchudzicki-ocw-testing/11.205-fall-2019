@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 11.205 Introduction to Spatial Analysis in-class QGIS exercise for week 6
-type: OCWFile
 uid: 44f76e51-782e-0ac2-2798-b792acf3c708
 ---

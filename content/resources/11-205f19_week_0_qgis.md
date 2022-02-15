@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 0 QGIS Exercise
-type: OCWFile
 uid: d46e7371-f24e-a988-00a7-a5fa77587757
 ---

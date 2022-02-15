@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Union
-type: OCWFile
 uid: a2892d9f-16af-da33-95af-6d94f9bc23b3
 ---

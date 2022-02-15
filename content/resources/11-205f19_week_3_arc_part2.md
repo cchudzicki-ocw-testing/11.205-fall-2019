@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 11.205 Introduction to Spatial Analysis ArcGIS exercise for week 3 - part 2
-type: OCWFile
 uid: 82c7a43a-c984-8ba0-8307-4c0c129d7352
 ---

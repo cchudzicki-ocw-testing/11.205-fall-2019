@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Thiessen Polygons
-type: OCWFile
 uid: d6984298-9b83-e0bc-3e84-bd6592c5bed1
 ---

@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Add Field and Field Calculator
-type: OCWFile
 uid: ee948b88-4be1-1f99-0046-60b91a37aea1
 ---

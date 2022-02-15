@@ -9,6 +9,5 @@ parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
 title: Select by Attributes
-type: OCWFile
 uid: 7e7d397a-eb27-95d9-87ae-45f270f98ca4
 ---
