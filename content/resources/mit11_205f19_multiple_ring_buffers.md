@@ -5,6 +5,7 @@ description: A brief video-only clip demonstrating how to create multiple ring b
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-205-introduction-to-spatial-analysis-fall-2019/c452046b5d62bb3357294acf8a8e13a2_MIT11_205F19_multiple_ring_buffers.mp4
 file_type: video/mp4
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other

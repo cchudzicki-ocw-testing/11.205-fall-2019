@@ -5,6 +5,7 @@ description: A brief video-only clip demonstrating the "append" operation in Arc
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-205-introduction-to-spatial-analysis-fall-2019/784877a5a09c12151b7eb4250558a752_MIT11_205F19_append.mp4
 file_type: video/mp4
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other

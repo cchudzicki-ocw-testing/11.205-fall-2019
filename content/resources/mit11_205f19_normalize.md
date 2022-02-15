@@ -5,6 +5,7 @@ description: A brief video-only clip demonstrating the "normalize" operation in 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/11-205-introduction-to-spatial-analysis-fall-2019/875b14ad05db560a087a96a0770b4f6e_MIT11_205F19_normalize.mp4
 file_type: video/mp4
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Instructional Videos
 parent_type: CourseSection
 resourcetype: Other
