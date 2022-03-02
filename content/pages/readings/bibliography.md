@@ -10,7 +10,7 @@ title: Bibliography
 uid: a46d7b1f-070d-b6d2-7ae0-ebb337da58bf
 ---
 
-\[For dates of reading assignments, see the {{< resource_link 889e19d4-1934-1e45-05fb-4053a231c40b "Readings" >}} page.\]
+\[For dates of reading assignments, see the {{% resource_link 889e19d4-1934-1e45-05fb-4053a231c40b "Readings" %}} page.\]
 
 [“Addressing Brazil's favelas | what3words” (YouTube)](https://www.youtube.com/watch?v=7PMtqGDUahE). what3words, March 15, 2017.
 
