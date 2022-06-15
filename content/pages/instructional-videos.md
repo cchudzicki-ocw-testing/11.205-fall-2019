@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a series of very short videos (no sound) demonstrating
+  how to perform certain operations in ArcGIS.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Instructional Videos

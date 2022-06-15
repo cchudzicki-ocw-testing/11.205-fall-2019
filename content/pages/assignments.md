@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains the assignments students completed in 11.205 Introduction
+  to Spatial Analysis
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
