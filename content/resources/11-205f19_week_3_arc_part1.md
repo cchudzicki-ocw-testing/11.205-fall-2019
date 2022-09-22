@@ -6,6 +6,7 @@ file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/ad8aeb9dfde0e5e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
