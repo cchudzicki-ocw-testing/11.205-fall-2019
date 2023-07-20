@@ -53,7 +53,7 @@ Goldberg, Daniel W., John P. Wilson, and Craig A. Knoblock. ["From Text to Geogr
 
 Hart, Timothy C., and Paul A. Zandbergen, (2013) ["Reference Data and Geocoding Quality: Examining Completeness and Positional Accuracy of Street Geocoded Crime Incidents."](https://www.ingentaconnect.com/content/mcb/181/2013/00000036/00000002/art00002) *Policing: An International Journal of Police Strategies & Management*, 36:2 (2008): 263–294.
 
-Kar, Bandana, and Michael E. Hodgson. ["A GIS‐Based Model to Determine Site Suitability of Emergency Evacuation Shelters" (PDF)](https://people.cas.sc.edu/hodgsonm/Published_Articles_PDF/TGIS_Kar%20and%20Hodgson_Shelter%20Site%20Suitability_TGIS_2008.pdf). *Transactions in GIS* 12.2 (2008): 227–248.
+Kar, Bandana, and Michael E. Hodgson. ["A GIS‐Based Model to Determine Site Suitability of Emergency Evacuation Shelters" (PDF)](https://www.researchgate.net/publication/220605833_A_GIS-Based_Model_to_Determine_Site_Suitability_of_Emergency_Evacuation_Shelters). *Transactions in GIS* 12.2 (2008): 227–248.
 
 Kitchin, Rob, Chris Perkins, and Martin Dodge. *Rethinking Maps: New Frontiers in Cartographic Theory.* Routledge (2009). ISBN: 9780415461528.
 
